@@ -26,7 +26,7 @@ I'm a developer from Costa Rica
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I make puzzles, hiking.
+- :zap: In my free time, I do puzzles, hiking.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jmiguelqv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-quesada-varela/)
 
