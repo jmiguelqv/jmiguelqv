@@ -1,4 +1,4 @@
-![Portada](./nombre-de-tu-imagen.png)
+![Portada](./Portada.png)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/65XpWQ6Da1zlueyWQ6/giphy.gif" width="100"/>
   <div id="badges">
