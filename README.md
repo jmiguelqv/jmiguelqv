@@ -1,46 +1,20 @@
 ![Portada](./Portada.png)
-<div id="header" align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/jose-miguel-quesada-varela/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=jmiguelqv&style=flat-square&color=blue" alt=""/>
 
-</div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300"/>
-</div>
---!>
+# José Miguel Quesada Varela
 
----
-### :man_technologist: ABOUT ME :
-I'm a developer from Costa Rica
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-quesada-varela/)
+![Profile Views](https://komarev.com/ghpvc/?username=jmiguelqv&style=flat&color=0077B5)
 
-- :seedling: Exploring Technical Content Writing.
+Software Engineer from Costa Rica specializing in full-stack web development. Currently working with React, TypeScript, and .NET.
 
-- :zap: In my free time I like to do puzzles and enjoy hiking.
+## Tech Stack
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jmiguelqv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-quesada-varela/)
+**Frontend:** React, TypeScript, JavaScript, Material UI  
+**Backend:** .NET  
+**Tools:** Git, VS Code, Google Cloud Platform
 
----
+## GitHub Stats
 
-### :hammer_and_wrench: LANGUAGES AND TOOLS :
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot net" **alt="Dot net" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain.svg" title="Google cloud" **alt="Google cloud" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-</div>
-
----
-### :fire: MY STATS :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmiguelqv&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiguelqv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiguelqv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
