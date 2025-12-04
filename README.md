@@ -1,4 +1,3 @@
-![Portada](./Portada.png)
 
 # José Miguel Quesada Varela
 
